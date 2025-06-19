@@ -1,0 +1,13 @@
+[
+    {
+        "componente":"Valvula de controle",
+        "tag":"VC-101",
+        "material":"Aco Inoxidavel\n\nPressao de operagao",
+        "pressao_operacao":null,
+        "pressao_max":"160",
+        "temperatura_max":"85",
+        "fabricante":"Emerson",
+        "modelo":"CV5500",
+        "arquivo":"example.pdf"
+    }
+]
