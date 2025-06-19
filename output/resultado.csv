@@ -1,4 +1,3 @@
 componente,tag,material,pressao_operacao,pressao_max,temperatura_max,fabricante,modelo,arquivo
-Valvula de controle,VC-101,"Aco Inoxidavel
-
-Pressao de operagao",,160,85,Emerson,CV5500,example.pdf
+,VC-101,"Stainless Steel
+Operating Pressure",,,,,,sample.pdf
