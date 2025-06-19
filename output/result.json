@@ -1,0 +1,13 @@
+[
+    {
+        "component":"Control Valve",
+        "tag":"VC-101",
+        "material":"Stainless Steel\nOperating Pressure",
+        "operating_pressure":"120",
+        "maximum_pressure":"160",
+        "maximum_temperature":"85",
+        "manufacturer":"Emerson",
+        "model":"CV5500",
+        "file":"sample.pdf"
+    }
+]
